@@ -39,7 +39,8 @@ For this project you require nodejs, npm and mongoDB installed on your pc.
 
 > The first page user see’s is the products page. 
 
-> They can either sign in or sign up. > There are two types of users. > Admin and Regular users. 
+> They can either sign in or sign up. 
+> There are two types of users: Admin and Regular users. 
 > We have already seeded the admin user. The admin can add different product listings. Credentials for admin account are: 
 > - Email: admin@admin.com 
 > - Password: 123456
